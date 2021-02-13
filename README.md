@@ -1,1 +1,1 @@
-# Box_class
+# Box Class
